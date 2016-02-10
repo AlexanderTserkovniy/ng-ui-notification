@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      "ng-ui-notification",
+      "/Users/Oleksandr/WebstormProjects/ng-ui-notification"
+    ]
+  ],
+  "_from": "ng-ui-notification@*",
+  "_id": "ng-ui-notification@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ng-ui-notification",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "email": "kemperomg@gmail.com",
+    "name": "alexblbl"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "ng-ui-notification",
+    "raw": "ng-ui-notification",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng-ui-notification/-/ng-ui-notification-1.0.0.tgz",
+  "_shasum": "8788f85e34734a38e9f21a39919c4db2b52dfdd5",
+  "_shrinkwrap": null,
+  "_spec": "ng-ui-notification",
+  "_where": "/Users/Oleksandr/WebstormProjects/ng-ui-notification",
+  "author": {
+    "name": "alexcrack, AlexanderTserkovniy"
+  },
+  "dependencies": {},
+  "description": "The standart angular implementation of angular-ui-notification with https://github.com/alexcrack/angular-ui-notification",
+  "devDependencies": {
+    "gulp": "*"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "dist": {
+    "shasum": "8788f85e34734a38e9f21a39919c4db2b52dfdd5",
+    "tarball": "http://registry.npmjs.org/ng-ui-notification/-/ng-ui-notification-1.0.0.tgz"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "factory",
+    "function",
+    "notification",
+    "service",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "gulpfile.js",
+  "repository": "https://github.com/AlexanderTserkovniy/ng-ui-notification",
+  "maintainers": [
+    {
+      "name": "alexblbl",
+      "email": "kemperomg@gmail.com"
+    }
+  ],
+  "name": "ng-ui-notification",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
